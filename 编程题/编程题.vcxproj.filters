@@ -39,5 +39,17 @@
     <ClCompile Include="7.旋转数组的最小数字.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="8.计算斐波那契数列.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9.跳台阶.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21.顺时针打印数组.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="22.树的子结构.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
