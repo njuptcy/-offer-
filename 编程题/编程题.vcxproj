@@ -63,10 +63,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.二维数组中的查找.cpp" />
+    <ClCompile Include="31.第一次只出现一次的字符.cpp" />
     <ClCompile Include="2.替换空格.cpp" />
     <ClCompile Include="21.顺时针打印数组.cpp" />
     <ClCompile Include="22.树的子结构.cpp" />
+    <ClCompile Include="23.最小的k个数.cpp" />
     <ClCompile Include="3.从尾到头打印链表.cpp" />
+    <ClCompile Include="30.第n个丑数.cpp" />
+    <ClCompile Include="32.数组中的逆序对.cpp" />
     <ClCompile Include="4.重建二叉树.cpp" />
     <ClCompile Include="5.用栈实现队列.cpp" />
     <ClCompile Include="6.两个排序数组的中位数.cpp" />

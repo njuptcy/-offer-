@@ -51,5 +51,17 @@
     <ClCompile Include="22.树的子结构.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="23.最小的k个数.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="30.第n个丑数.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="31.第一次只出现一次的字符.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="32.数组中的逆序对.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
