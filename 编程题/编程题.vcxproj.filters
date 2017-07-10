@@ -63,5 +63,14 @@
     <ClCompile Include="32.数组中的逆序对.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="32.统计数字在排序数组中出现的次数.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="33.字符串的排列.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="33.字符串的所有组合.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
