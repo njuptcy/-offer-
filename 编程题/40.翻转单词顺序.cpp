@@ -13,7 +13,7 @@
 //		int index = reverse.find(' ');
 //		while(index != string::npos)
 //		{
-//			string word = reverse.substr(begin, index);
+//			string word = reverse.substr(begin, index - begin);
 //			//result.append(reverse.substr(begin, index + 1));
 //			word = string(word.rbegin(), word.rend());
 //			result.append(word);
@@ -32,7 +32,8 @@
 //int main()
 //{
 //	Solution s;
-//	string str = "hello world";
+//	//string str = "hello world";
+//	string str = "I am a stutent.";
 //	string result = s.ReverseSentence(str);
 //	cout << result << endl;
 //	getchar();
